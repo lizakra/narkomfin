@@ -14,13 +14,13 @@ nav:hover {
 }
 nav li {
   list-style-type: none;
-  margin: 0 0 20;
+  margin: 0 0 10;
   height: auto;
 }
 nav a {
   text-decoration: none;
   font-size: 14px;
-  line-height: 15px;
+  line-height: 50px;
 }
 nav > ul > li:first-child {
   font-weight: bold;
